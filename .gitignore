@@ -1,3 +1,8 @@
+# TensorFlow / Keras checkpoint dirs
+checkpoints/
+checkpoints_opt/
+untitled_project/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
